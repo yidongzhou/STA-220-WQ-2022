@@ -15,3 +15,5 @@ R has a small number of built-in constants. The following constants are availabl
 ## Random Samples and Permutations
 
 [`sample(x, size, replace = FALSE, prob = NULL)`](https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/sample): the argument `replace` controls the way we sample (with replacement or not).
+
+[`all(..., na.rm = FALSE)`](https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/all): given a set of logical vectors, are all of the values true?
